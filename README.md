@@ -30,10 +30,10 @@
 | Nighttime Driving [paper](https://arxiv.org/abs/1810.02575) | 2018 | | | | | | | \ | GoPro Hero 5 camera |
 | Dark Zurich[paper](https://arxiv.org/abs/1901.05946) | 2019 | | | | | | | [github](https://github.com/sakaridis/MGCDA) [web](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/) | 1080p GoPro Hero 5 camera |
 | ExDark[paper](https://arxiv.org/abs/1805.11227) | 2019 | | | | | | | [github](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) |  downloaded from internet websites and search engines |
-| NightOwls[paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
+| NightOwls[paper](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_43) | 2019 | | | | | | | [web](https://www.nightowls-dataset.org/) | a forward-looking industry-standard camera |
+| UNDD[paper](https://ieeexplore.ieee.org/abstract/document/8803299) | 2019 | | | | | | | [github](https://github.com/sauradip/night_image_semantic_segmentation) |  a smartphone mounted as dashboard camera |
+| BDD100k[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html) | 2020 | | | | | | | [web](http://bdd-data.berkeley.edu/download.html) | Nexar Dashboard Cameras |
+| RA SSA[paper](https://ieeexplore.ieee.org/abstract/document/9000933) | 2021 | | | | | | | \ | a GoPro HERO camera |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
