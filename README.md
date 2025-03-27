@@ -44,18 +44,12 @@
 | FLIR | 2021 | | | | | | | [web](https://www.flir.co.uk/oem/adas/adas-dataset-form/) | Teledyne FLIR thermal sensors |
 | LLVIP[paper](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html) | 2021 | | | | | | | [github](https://github.com/bupt-ai-cz/LLVIP) |  a binocular camera which consists of a visible light camera and an infrared camera |
 | M3FD[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Target-Aware_Dual_Adversarial_Learning_and_a_Multi-Scenario_Multi-Modality_Benchmark_To_CVPR_2022_paper.html) | 2022 | | | | | | | [github](https://github.com/JinyuanLiu-CV/TarDAL) |  infrared and visible pairs |
-| RobotCar[paper](https://journals.sagepub.com/doi/abs/10.1177/0278364916679498) | 2017 | | | | | | | [web](https://robotcar-dataset.robots.ox.ac.uk/) (not available) | •	
-1 × Point Grey Bumblebee XB3 (BBX3-13S2C-38) trinocular stereo camera, 1280 × 960 × 3, 16 Hz, 1/3 inch Sony ICX445 CCD, global shutter, 3.8 mm lens, 66° HFoV, 12/24 cm baseline;
-•	
-3 × Point Grey Grasshopper2 (GS2-FW-14S5C-C) monocular camera, 1024 × 1024, 11.1 Hz, 2/3 inch Sony ICX285 CCD, global shutter, 2.67 mm fisheye lens (Sunex DSL315B-650-F2.3), 180° HFoV;
-•	
-2 × SICK LMS-151 2D LIDAR, 270° FoV, 50 Hz, 50 m range, 0.5° resolution;
-•	
-1 × SICK LD-MRS 3D LIDAR, 85° HFoV, 3.2° VFoV, 4 planes, 12.5 Hz, 50 m range, 0.125° resolution;
-•	
-1 × NovAtel SPAN-CPT ALIGN inertial and GPS navigation system, 6 axis, 50 Hz, GPS/GLONASS, dual antenna. |
-| [paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
+| RobotCar[paper](https://journals.sagepub.com/doi/abs/10.1177/0278364916679498) | 2017 | | | | | | | [web](https://robotcar-dataset.robots.ox.ac.uk/) (not available) | 1 × Point Grey Bumblebee XB3 (BBX3-13S2C-38) trinocular stereo camera, 3 × Point Grey Grasshopper2 (GS2-FW-14S5C-C) monocular camera, 2 × SICK LMS-151 2D LIDAR, 1 × SICK LD-MRS 3D LIDAR, 1 × NovAtel SPAN-CPT ALIGN inertial and GPS navigation system |
+| A*3D[paper](https://ieeexplore.ieee.org/abstract/document/9197385) | 2019 | | | | | | | [github](https://github.com/I2RDL2/ASTAR-3D) | Two PointGrey Chameleon3 USB3 Global shutter color cameras (CM3-U3-31S4C-CS) with 55Hz frame rate, 2048 × 1536 resolution. A Velodyne HDL-64ES3 3D-LiDAR with 10Hz spinrate, 64 laser beams. |
+| Waymo[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.html) | 2020 | | | | | | | [github](https://github.com/waymo-research/waymo-open-dataset) |  five LiDAR sensors and five high-resolution pinhole cameras |
+| nuScenes[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html) | 2020 | | | | | | | [web](https://www.nuscenes.org/) | camera, radar, Lidar |
+| SHIFT[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_SHIFT_A_Synthetic_Driving_Dataset_for_Continuous_Multi-Task_Domain_Adaptation_CVPR_2022_paper.pdf) | 2022 | | | | | | | [github](https://github.com/SysCV/shift-dev) [download](https://dl.cv.ethz.ch/shift/) | CARLA Simulator |
+| DDD17[paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 ## Metrics
