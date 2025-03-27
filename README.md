@@ -25,7 +25,7 @@
 ## Datasets
 |Dataset|Year|Data Format|Time of Day|Weather|Tasks|Dark Scales|Classes|Code|Sensor|
 |---|---|---|---|---|---|---|---|---|------|
-| Raincouver [paper](https://ieeexplore.ieee.org/abstract/document/7970170) | 2017 | | | | | | | \ | <div style="width: 150pt"> a dashboard camera mounted behind the windshield of a 2014 Toyota Corolla. </div> |
+| Raincouver [paper](https://ieeexplore.ieee.org/abstract/document/7970170) | 2017 | | | | | | | \ | <div style="width: 300pt">a dashboard camera mounted behind the windshield of a 2014 Toyota Corolla.</div> |
 | WildDash1 [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Oliver_Zendel_WildDash_-_Creating_ECCV_2018_paper.html) | 2018 | | | | | | | [web](https://www.wilddash.cc/) | dashcam |
 | Nighttime Driving [paper](https://arxiv.org/abs/1810.02575) | 2018 | | | | | | | \ | GoPro Hero 5 camera |
 | Dark Zurich[paper](https://arxiv.org/abs/1901.05946) | 2019 | | | | | | | [github](https://github.com/sakaridis/MGCDA) [web](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/) | 1080p GoPro Hero 5 camera |
