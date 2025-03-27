@@ -34,9 +34,15 @@
 | UNDD[paper](https://ieeexplore.ieee.org/abstract/document/8803299) | 2019 | | | | | | | [github](https://github.com/sauradip/night_image_semantic_segmentation) |  a smartphone mounted as dashboard camera |
 | BDD100k[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html) | 2020 | | | | | | | [web](http://bdd-data.berkeley.edu/download.html) | Nexar Dashboard Cameras |
 | RA SSA[paper](https://ieeexplore.ieee.org/abstract/document/9000933) | 2021 | | | | | | | \ | a GoPro HERO camera |
-| [paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
+| NightCity[paper](https://ieeexplore.ieee.org/abstract/document/9591338) | 2021 | | | | | | | \ |  a Driving Recorder |
+| ACDC[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sakaridis_ACDC_The_Adverse_Conditions_Dataset_With_Correspondences_for_Semantic_Driving_ICCV_2021_paper.html) | 2021 | | | | | | |[web](https://acdc.vision.ee.ethz.ch/) | a 1080p GoPro Hero 5 camera |
+| WildDash2[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zendel_Unifying_Panoptic_Segmentation_for_Autonomous_Driving_CVPR_2022_paper.html) | 2022 | | | | | | | [web](https://www.wilddash.cc/) |  dashcam |
+| KAIST [paper](https://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html) | 2015 | | | | | | | [github](https://github.com/CalayZhou/Multispectral-Pedestrian-Detection-Resource) | a color camera, a thermal camera, a beam splitter, and a three-axis camera jig|
+| CVC-14[paper](https://www.mdpi.com/1424-8220/16/6/820) | 2016 | | | | | | | \ | IDS UI-3240CP (IDS Imaging Development Systems GmbH, Obersulm, Germany) and an FLIR Tau 2 camera (FLIR Systems, Nashua, NH, USA) |
+| MF Dataset[paper](https://ieeexplore.ieee.org/abstract/document/8206396) | 2017 | | | | | | | [github](https://github.com/haqishen/MFNet-pytorch) | an InfRec R500 as our RGB and IR camera |
+| Freiburg[paper](https://ieeexplore.ieee.org/abstract/document/9341192) | 2020 | | | | | | | [github](https://github.com/jzuern/heatnet-pub) |  a stereo RGB camera rig (FLIR Blackfly 23S3C) and a stereo thermal camera rig (FLIR ADK) mounted on the roof of our data collection vehicle. In addition to images, we recorded the GPS/IMU data and LiDAR point clouds. |
+| FLIR | 2021 | | | | | | | [web](https://www.flir.co.uk/oem/adas/adas-dataset-form/) | Teledyne FLIR thermal sensors |
+| LLVIP[paper](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html) | 2021 | | | | | | | [github](https://github.com/bupt-ai-cz/LLVIP) |  a binocular camera which consists of a visible light camera and an infrared camera |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 ## Metrics
