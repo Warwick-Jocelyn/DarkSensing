@@ -24,7 +24,7 @@
 
 ## Datasets
 |Dataset|Year|Data Format|Time of Day|Weather|Tasks|Dark Scales|Classes|Code|Sensor|
-|--|--|---|---|---|---|---|--|--|--------|
+|--|--|---|---|---|---|---|--|--|-----------|
 | Raincouver [paper](https://ieeexplore.ieee.org/abstract/document/7970170) | 2017 | | | | | | | \ | a dashboard camera mounted behind the windshield of a 2014 Toyota Corolla. |
 | WildDash1 [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Oliver_Zendel_WildDash_-_Creating_ECCV_2018_paper.html) | 2018 | | | | | | | [web](https://www.wilddash.cc/) | dashcam |
 | Nighttime Driving [paper](https://arxiv.org/abs/1810.02575) | 2018 | | | | | | | \ | GoPro Hero 5 camera |
