@@ -27,7 +27,11 @@
 |---|---|---|---|---|---|---|---|---|---|
 | Raincouver [paper](https://ieeexplore.ieee.org/abstract/document/7970170) | 2017 | | | | | | | \ | a dashboard camera mounted behind the windshield of a 2014 Toyota Corolla. |
 | WildDash1 [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Oliver_Zendel_WildDash_-_Creating_ECCV_2018_paper.html) | 2018 | | | | | | | [web](https://www.wilddash.cc/) | dashcam |
-| Nighttime Driving [paper](https://arxiv.org/abs/1810.02575) | 2018 | | | | | | | | |
+| Nighttime Driving [paper](https://arxiv.org/abs/1810.02575) | 2018 | | | | | | | \ | GoPro Hero 5 camera |
+| Dark Zurich[paper](https://arxiv.org/abs/1901.05946) | 2019 | | | | | | | [github](https://github.com/sakaridis/MGCDA) [web](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/) | 1080p GoPro Hero 5 camera |
+| ExDark[paper](https://arxiv.org/abs/1805.11227) | 2019 | | | | | | | [github](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) |  downloaded from internet websites and search engines |
+| NightOwls[paper]() | | | | | | | | | |
+| [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
