@@ -43,6 +43,19 @@
 | Freiburg[paper](https://ieeexplore.ieee.org/abstract/document/9341192) | 2020 | | | | | | | [github](https://github.com/jzuern/heatnet-pub) |  a stereo RGB camera rig (FLIR Blackfly 23S3C) and a stereo thermal camera rig (FLIR ADK) mounted on the roof of our data collection vehicle. In addition to images, we recorded the GPS/IMU data and LiDAR point clouds. |
 | FLIR | 2021 | | | | | | | [web](https://www.flir.co.uk/oem/adas/adas-dataset-form/) | Teledyne FLIR thermal sensors |
 | LLVIP[paper](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html) | 2021 | | | | | | | [github](https://github.com/bupt-ai-cz/LLVIP) |  a binocular camera which consists of a visible light camera and an infrared camera |
+| M3FD[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Target-Aware_Dual_Adversarial_Learning_and_a_Multi-Scenario_Multi-Modality_Benchmark_To_CVPR_2022_paper.html) | 2022 | | | | | | | [github](https://github.com/JinyuanLiu-CV/TarDAL) |  infrared and visible pairs |
+| RobotCar[paper](https://journals.sagepub.com/doi/abs/10.1177/0278364916679498) | 2017 | | | | | | | [web](https://robotcar-dataset.robots.ox.ac.uk/) (not available) | •	
+1 × Point Grey Bumblebee XB3 (BBX3-13S2C-38) trinocular stereo camera, 1280 × 960 × 3, 16 Hz, 1/3 inch Sony ICX445 CCD, global shutter, 3.8 mm lens, 66° HFoV, 12/24 cm baseline;
+•	
+3 × Point Grey Grasshopper2 (GS2-FW-14S5C-C) monocular camera, 1024 × 1024, 11.1 Hz, 2/3 inch Sony ICX285 CCD, global shutter, 2.67 mm fisheye lens (Sunex DSL315B-650-F2.3), 180° HFoV;
+•	
+2 × SICK LMS-151 2D LIDAR, 270° FoV, 50 Hz, 50 m range, 0.5° resolution;
+•	
+1 × SICK LD-MRS 3D LIDAR, 85° HFoV, 3.2° VFoV, 4 planes, 12.5 Hz, 50 m range, 0.125° resolution;
+•	
+1 × NovAtel SPAN-CPT ALIGN inertial and GPS navigation system, 6 axis, 50 Hz, GPS/GLONASS, dual antenna. |
+| [paper]() | | | | | | | | | |
+| [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 | [paper]() | | | | | | | | | |
 ## Metrics
