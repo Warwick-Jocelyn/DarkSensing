@@ -51,6 +51,6 @@
 | nuScenes[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html) | 2020 | | | | | | | [web](https://www.nuscenes.org/) | camera, radar, Lidar |
 | SHIFT[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_SHIFT_A_Synthetic_Driving_Dataset_for_Continuous_Multi-Task_Domain_Adaptation_CVPR_2022_paper.pdf) | 2022 | | | | | | | [github](https://github.com/SysCV/shift-dev) [download](https://dl.cv.ethz.ch/shift/) | CARLA Simulator |
 | DDD17[paper]() | | | | | | | | | |
-| [paper]() | | | | | | | | | |
+| MUSES[paper](https://muses.vision.ee.ethz.ch/pub_files/muses/MUSES.pdf) | 2024 | | | | | | | [github](https://github.com/timbroed/MUSES) | camera, Lidar, Radar, Event camera, IMU/GNSS |
 | [paper]() | | | | | | | | | |
 ## Metrics
