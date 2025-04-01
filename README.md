@@ -1,4 +1,5 @@
-# DarkSensing 
+# DarkSensing
+Collects deep learning-based low-light image and video enhancement methods, datasets, and evaluation metrics.
 ## Contents
 1. Datasets
 2. Methodology
